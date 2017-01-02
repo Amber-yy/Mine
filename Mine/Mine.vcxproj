@@ -142,6 +142,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="core.h" />
+    <ClInclude Include="functions.h" />
+    <ClInclude Include="structs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="getmsg.cpp" />
+    <ClCompile Include="iniGame.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="update.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

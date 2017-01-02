@@ -1,0 +1,5 @@
+font=楷体
+fontSize=20
+fontColor=16753920
+fillColor=4286945
+words=请按任意键开始游戏

@@ -1,0 +1,7 @@
+numOfMine=20
+x=15
+y=15
+musicRoute=data/bgm.mp3
+coverImage=data/cover.png
+coverX=672
+coverY=378
